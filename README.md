@@ -1,7 +1,7 @@
 # ![banner](./banner.png)
 
 
-#### Impact of window size on the generalizability of collaboration qualityestimation models developed using Multimodal Learning Analytics
+#### How to  Build More Generalizable Models for Collaboration Quality? Lessons Learned from Exploring Multi-Contexts Audio-Log Datasets using Multimodal Learning Analytics
 
 This repository contains source code for data analysis for LAK 2023 reserach paper where audio and log data were used to model collaboration quality (and its dimensions). The paper investigated various model building pipelines for classifying collaboration quality using multimodal data.
 
